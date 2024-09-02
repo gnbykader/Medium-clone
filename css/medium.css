@@ -1,0 +1,19 @@
+.bg-color{
+    background-color: #FFC017;
+}
+
+.border-bottom-dark{
+    border-bottom: solid 1px rgb(41,41,41,1);
+}
+
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.aside-buttons > li{
+    margin-bottom: 10px;
+}
+
+.boreder-top-dark{
+    border-top: 1px solid rgb(230,230,230,1);
+}
